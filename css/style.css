@@ -52,7 +52,7 @@ header{
     border-top-right-radius: 7px;
   }
   .gallery{
-    display:inline-flex;
+    display:flex;
     flex-wrap: wrap;
     justify-content:center;
     align-content: flex-start;
